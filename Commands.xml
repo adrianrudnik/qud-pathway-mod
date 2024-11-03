@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<commands>
-    <command ID="Pathway_Boot" DisplayText="Boot" Category="Mod: Pathway" Layer="Adventure" Auto="Down">
-        <keyboardBind Modifier="ctrl" Key="d"/>
-    </command>
-</commands>
